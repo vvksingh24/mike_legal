@@ -11,6 +11,5 @@ files will be downloaded in "Downloads" folder inside django-project(script) wit
 
 
 How it works:
-1. Unzip the file.
-2. Download modules given in requirements.txt using command -> ( pip install -r requirements.txt)
-3. run the manage.py file with the command "mike_legal" eg.  python manage.py mike_legal 2014-01-01 2017-01-01
+1. Download modules given in requirements.txt using command -> ( pip install -r requirements.txt)
+2. run the manage.py file with the command "mike_legal" and arguments eg.  python manage.py mike_legal 2014-01-01 2017-01-01
